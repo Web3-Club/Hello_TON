@@ -48,6 +48,8 @@ TON正在将加密货币放入每个人的口袋里。通过在Telegram即时通
 
 - [TON 中文社区](https://t.me/toncoin_cn)
 
+- 公众号：TON中文圈
+
 
 
 
