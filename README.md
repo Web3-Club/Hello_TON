@@ -13,20 +13,22 @@
   <img src="https://github.com/Web3-Club/Awesome_TON/assets/76860915/2596e913-c3ee-42af-9f3f-6e3f09fd6066">
 </p>
 
-# 关于 TON
+# ❓关于 TON
 
 开放网络（原名Telegram Open Network，简称TON）是一种基于区块链的去中心化，由Telegram团队开发。
+
+TON正在将加密货币放入每个人的口袋里。通过在Telegram即时通讯软件中构建Web3生态系统，TON为数十亿人提供了拥有自己的数字身份、数据和资产的机会。
 
 
 
 ## 语言
 [简体中文](https://github.com/Web3-Club/Awesome_TON/README.md)
 
-## 开发
+## 💻 开发
 ### TON 白皮书
 
 
-## 研报
+## 📖研报
 
 - [Telegram and TON: New Narrative in Web2.0 to Web3.0 - OP crypto](https://www.opcrypto.vc/blogs/op-crypto-ton-and-tg-foundation-network)
 
@@ -40,9 +42,12 @@
 
 ©️ TON 中文
 
-## 社群
+## 🙋社群
 - [TON Learning](https://t.me/ton_learn)
 
 - [TON 中文社区](https://t.me/toncoin_cn)
+
+
+
 
 
