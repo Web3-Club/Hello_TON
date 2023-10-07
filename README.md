@@ -12,3 +12,6 @@
 <p align="center">
   <img src="https://github.com/Web3-Club/Awesome_TON/assets/76860915/2596e913-c3ee-42af-9f3f-6e3f09fd6066">
 </p>
+
+## 语言
+[简体中文](https://github.com/Web3-Club/Awesome_TON/README.md)
