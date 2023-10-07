@@ -17,6 +17,7 @@
 
 开放网络（原名Telegram Open Network，简称TON）是一种基于区块链的去中心化，由Telegram团队开发。
 
+
 TON正在将加密货币放入每个人的口袋里。通过在Telegram即时通讯软件中构建Web3生态系统，TON为数十亿人提供了拥有自己的数字身份、数据和资产的机会。
 
 
