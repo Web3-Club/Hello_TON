@@ -28,7 +28,7 @@ TON正在将加密货币放入每个人的口袋里。通过在Telegram即时通
 ## 💻 开发
 
 ### 仓库
-[TON]（https://github.com/ton-blockchain/ton）
+[TON](https://github.com/ton-blockchain/ton)
 
 ### TON 白皮书
 
