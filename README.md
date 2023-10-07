@@ -47,12 +47,16 @@ TON正在将加密货币放入每个人的口袋里。通过在Telegram即时通
 
 ©️ TON 中文
 
-## 🙋社群
+## 🙋社群及媒体
 - [TON Learning](https://t.me/ton_learn)
 
 - [TON 中文社区](https://t.me/toncoin_cn)
 
+- [YouTube](https://www.youtube.com/@the_open_network)
+
 - 公众号：TON中文圈
+
+
 
 
 
