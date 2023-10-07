@@ -36,19 +36,23 @@ Youtube 视频：[TON - The Open Network](https://www.youtube.com/watch?v=XgzHmV
 
 ## 📖研报
 
+
+- [TON 的发展现状与未来展望](https://foresightnews.pro/article/detail/43289)
+
+©️ TON 中文
+
+<br>
+
+
 - [Telegram and TON: New Narrative in Web2.0 to Web3.0 - OP crypto](https://www.opcrypto.vc/blogs/op-crypto-ton-and-tg-foundation-network)
 
   - [TON 与 Telegram：走向 Mass Adoption 的新叙事及投资机会](https://foresightnews.pro/article/detail/44346)
 
 ©️ OP crypto
 
-<br>
 
-- [TON 的发展现状与未来展望](https://foresightnews.pro/article/detail/43289)
+## 🙋相关社群及媒体
 
-©️ TON 中文
-
-## 🙋社群及媒体
 - [TON Learning](https://t.me/ton_learn)
 
 - [TON 中文社区](https://t.me/toncoin_cn)
