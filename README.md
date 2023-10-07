@@ -9,6 +9,6 @@
 </h2>
 
 
-<div style="text-align: center;">
-  <img src="https://github.com/Web3-Club/Awesome_TON/assets/76860915/2596e913-c3ee-42af-9f3f-6e3f09fd6066" width="148" alt="截屏2023-10-07 下午1 36 30">
-</div>
+<p align="center">
+  <img src="https://github.com/Web3-Club/Awesome_TON/assets/76860915/2596e913-c3ee-42af-9f3f-6e3f09fd6066">
+</p>
