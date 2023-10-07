@@ -41,8 +41,8 @@
 ©️ TON 中文
 
 ## 社群
-[TON Learning](https://t.me/ton_learn)
+- [TON Learning](https://t.me/ton_learn)
 
-[TON 中文社区](https://t.me/toncoin_cn)
+- [TON 中文社区](https://t.me/toncoin_cn)
 
 
