@@ -2,4 +2,10 @@
   <span style="font-size: 64px;">Awesome_TON</span>
 </h1>
 
-TON 区块链相关资料聚合
+
+
+<h2 align="center">
+  TON 区块链相关资料聚合
+</h2>
+
+
