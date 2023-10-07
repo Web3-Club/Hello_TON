@@ -31,7 +31,7 @@ TON正在将加密货币放入每个人的口袋里。通过在Telegram即时通
 [TON](https://github.com/ton-blockchain/ton)
 
 ### TON 白皮书
-
+[TON Docs](https://docs.ton.org/learn/docs)
 
 ## 📖研报
 
