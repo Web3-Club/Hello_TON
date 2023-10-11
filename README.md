@@ -55,6 +55,11 @@ Youtube 视频：[TON - The Open Network](https://www.youtube.com/watch?v=XgzHmV
 
 ©️ OP crypto
 
+- [从技术角度研究背靠Telegram的公链TON是如何崛起的？](https://mp.weixin.qq.com/s/0KgTlhtcU5DGqBw27yJZw)
+
+©️ Beosin
+
+  
 <br>
 
 ## 🙋相关社群及媒体
